@@ -50,9 +50,9 @@ The dataset used in this project contains key information such as:
 
 ## **🛠 Technologies Used**
 
-- Python: Programming language
-- Pandas, NumPy: Data manipulation and analysis
-- Matplotlib, Seaborn: Data visualization
-- Scikit-learn: Machine learning models
-- Jupyter Notebook: For organizing the workflow
-- Flask & Streamlit : For Deployment
+- **Python:** Programming language
+- **Pandas, NumPy:** Data manipulation and analysis
+- **Matplotlib, Seaborn:** Data visualization
+- **Scikit-learn:** Machine learning models
+- **Jupyter Notebook:** For organizing the workflow
+- **Flask & Streamlit:** For Deployment
